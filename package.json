@@ -1,0 +1,15 @@
+{
+  "name": "bluebik-global",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@nx/js": "17.0.3",
+    "@nxrocks/nx-flutter": "^8.0.1",
+    "nx": "17.0.3"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

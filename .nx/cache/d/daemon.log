@@ -1,0 +1,445 @@
+[NX Daemon Server] - 2023-11-07T07:18:31.127Z - Started listening on: /var/folders/d4/pmdwjz9x2fnftdzf9m672wgh0000gn/T/8b84860923d8a30028c4/d.sock
+[NX Daemon Server] - 2023-11-07T07:18:31.129Z - [WATCHER]: Subscribed to changes within: /Users/stanydsouza/Work/bluebik-global (native)
+[NX Daemon Server] - 2023-11-07T07:18:31.130Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:18:31.130Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:18:31.131Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:18:31.132Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:18:31.157Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T07:18:31.157Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:18:31.157Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:18:31.168Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:18:31.168Z - Time taken for 'total for creating and serializing project graph' 35.89058300014585ms
+[NX Daemon Server] - 2023-11-07T07:18:31.171Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:18:31.171Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 35. Response time: 4.
+[NX Daemon Server] - 2023-11-07T07:18:31.171Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-07T07:18:31.172Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:18:31.172Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-07T07:18:31.173Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:18:31.173Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:18:31.173Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:18:31.173Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-07T07:18:31.189Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:18:31.189Z - [WATCHER]: .nx/cache/d/server-process.json was created or restored
+[NX Daemon Server] - 2023-11-07T07:18:31.293Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T07:18:31.293Z - [REQUEST]: .nx/cache/d/server-process.json
+[NX Daemon Server] - 2023-11-07T07:18:31.293Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:18:31.299Z - Time taken for 'hash changed files from watcher' 0.12087500002235174ms
+[NX Daemon Server] - 2023-11-07T07:18:31.363Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:19:41.166Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:19:41.166Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/bluebik-global (sources)
+[NX Daemon Server] - 2023-11-07T07:19:41.166Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/bluebik-global (outputs)
+[NX Daemon Server] - 2023-11-07T07:19:41.167Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2023-11-07T07:19:48.638Z - Started listening on: /var/folders/d4/pmdwjz9x2fnftdzf9m672wgh0000gn/T/8b84860923d8a30028c4/d.sock
+[NX Daemon Server] - 2023-11-07T07:19:48.639Z - [WATCHER]: Subscribed to changes within: /Users/stanydsouza/Work/bluebik-global (native)
+[NX Daemon Server] - 2023-11-07T07:19:48.644Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:19:48.644Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:19:48.645Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:19:48.645Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:19:48.662Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T07:19:48.662Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:19:48.662Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:19:48.680Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:19:48.681Z - Time taken for 'total for creating and serializing project graph' 34.98433300014585ms
+[NX Daemon Server] - 2023-11-07T07:19:48.683Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:19:48.683Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 35. Response time: 3.
+[NX Daemon Server] - 2023-11-07T07:19:48.684Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-07T07:19:48.684Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:19:48.684Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-07T07:19:48.684Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:19:48.684Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:19:48.684Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:19:48.684Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-07T07:19:48.700Z - [WATCHER]: .nx/cache/d/server-process.json was created or restored
+[NX Daemon Server] - 2023-11-07T07:19:48.701Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:19:48.804Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T07:19:48.804Z - [REQUEST]: .nx/cache/d/server-process.json
+[NX Daemon Server] - 2023-11-07T07:19:48.804Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:19:48.810Z - Time taken for 'hash changed files from watcher' 0.09779100026935339ms
+[NX Daemon Server] - 2023-11-07T07:19:48.872Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:19:49.006Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:19:49.006Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:19:49.007Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:19:49.007Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:19:49.007Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:19:49.008Z - Time taken for 'total for creating and serializing project graph' 0.07416700012981892ms
+[NX Daemon Server] - 2023-11-07T07:19:49.009Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:19:49.009Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-07T07:19:49.015Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:19:49.015Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:19:49.015Z - Time taken for 'total for creating and serializing project graph' 0.0522079998627305ms
+[NX Daemon Server] - 2023-11-07T07:19:49.015Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:19:49.015Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-07T07:19:49.017Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:19:49.017Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:19:49.017Z - Time taken for 'total for creating and serializing project graph' 0.0711669996380806ms
+[NX Daemon Server] - 2023-11-07T07:19:49.020Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:19:49.020Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-11-07T07:19:49.023Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:19:49.023Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:19:49.023Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-07T07:19:49.027Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:19:49.064Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:21:12.397Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:21:12.397Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:21:12.398Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:21:12.399Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:21:12.399Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:21:12.399Z - Time taken for 'total for creating and serializing project graph' 0.06304199993610382ms
+[NX Daemon Server] - 2023-11-07T07:21:12.400Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:21:12.400Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-07T07:24:07.214Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:24:07.215Z - [WATCHER]: 71 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T07:24:07.216Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/bluebik-global (sources)
+[NX Daemon Server] - 2023-11-07T07:24:07.216Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/bluebik-global (sources)
+[NX Daemon Server] - 2023-11-07T07:24:33.252Z - Started listening on: /var/folders/d4/pmdwjz9x2fnftdzf9m672wgh0000gn/T/8b84860923d8a30028c4/d.sock
+[NX Daemon Server] - 2023-11-07T07:24:33.253Z - [WATCHER]: Subscribed to changes within: /Users/stanydsouza/Work/bluebik-global (native)
+[NX Daemon Server] - 2023-11-07T07:24:33.260Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:24:33.260Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:24:33.261Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:24:33.261Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:24:33.317Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T07:24:33.317Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:24:33.317Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:24:33.331Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.332Z - Time taken for 'total for creating and serializing project graph' 69.87062499951571ms
+[NX Daemon Server] - 2023-11-07T07:24:33.332Z - [WATCHER]: .nx/cache/d/server-process.json was created or restored
+[NX Daemon Server] - 2023-11-07T07:24:33.332Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:24:33.333Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.333Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 70. Response time: 2.
+[NX Daemon Server] - 2023-11-07T07:24:33.334Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-07T07:24:33.334Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:24:33.334Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:24:33.334Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:24:33.334Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:24:33.334Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:24:33.334Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-07T07:24:33.393Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:24:33.437Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T07:24:33.437Z - [REQUEST]: .nx/cache/d/server-process.json
+[NX Daemon Server] - 2023-11-07T07:24:33.437Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T07:24:33.444Z - Time taken for 'hash changed files from watcher' 0.14379099942743778ms
+[NX Daemon Server] - 2023-11-07T07:24:33.507Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T07:24:33.644Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:24:33.645Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:24:33.645Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T07:24:33.646Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:24:33.646Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.646Z - Time taken for 'total for creating and serializing project graph' 0.062250000424683094ms
+[NX Daemon Server] - 2023-11-07T07:24:33.647Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.647Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-07T07:24:33.652Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:24:33.652Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.653Z - Time taken for 'total for creating and serializing project graph' 0.08841599989682436ms
+[NX Daemon Server] - 2023-11-07T07:24:33.653Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.653Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-07T07:24:33.655Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T07:24:33.655Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.655Z - Time taken for 'total for creating and serializing project graph' 0.08441700041294098ms
+[NX Daemon Server] - 2023-11-07T07:24:33.658Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T07:24:33.658Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 3.
+[NX Daemon Server] - 2023-11-07T07:24:33.667Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:24:33.667Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-07T07:24:33.667Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-07T07:24:33.684Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T07:24:33.703Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:24:36.488Z - [WATCHER]: mobile was deleted
+[NX Daemon Server] - 2023-11-07T08:24:36.488Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:24:36.595Z - Error detected when recomputing project file map: ENOENT: no such file or directory, open '/Users/stanydsouza/Work/bluebik-global/mobile/project.json'
+[NX Daemon Server] - 2023-11-07T08:24:36.596Z - Time taken for 'hash changed files from watcher' 0.11962500028312206ms
+[NX Daemon Server] - 2023-11-07T08:28:04.088Z - [WATCHER]: 2 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:04.088Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:04.139Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:04.140Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:04.199Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:04.199Z - [REQUEST]: apps/mobile/build/7df4e41f5546b01621d467a78325cc66/gen_dart_plugin_registrant.stamp,apps/mobile/build/7df4e41f5546b01621d467a78325cc66/gen_localizations.stamp,apps/mobile/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java,apps/mobile/ios/Runner/GeneratedPluginRegistrant.h,apps/mobile/ios/Runner/GeneratedPluginRegistrant.m,apps/mobile/build/7df4e41f5546b01621d467a78325cc66/_composite.stamp
+[NX Daemon Server] - 2023-11-07T08:28:04.199Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:04.211Z - Time taken for 'hash changed files from watcher' 0.01570800133049488ms
+[NX Daemon Server] - 2023-11-07T08:28:04.274Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:15.298Z - [WATCHER]: apps/mobile/ios/Runner.xcodeproj/project.pbxproj was modified
+[NX Daemon Server] - 2023-11-07T08:28:15.298Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:15.503Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:15.503Z - [REQUEST]: apps/mobile/ios/Runner.xcodeproj/project.pbxproj
+[NX Daemon Server] - 2023-11-07T08:28:15.503Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:15.510Z - Time taken for 'hash changed files from watcher' 0.12883399985730648ms
+[NX Daemon Server] - 2023-11-07T08:28:15.572Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:16.225Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:16.225Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:16.631Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:16.631Z - [REQUEST]: apps/mobile/ios/Flutter/Generated.xcconfig,apps/mobile/ios/Flutter/flutter_export_environment.sh
+[NX Daemon Server] - 2023-11-07T08:28:16.631Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:16.639Z - Time taken for 'hash changed files from watcher' 1.2077499981969595ms
+[NX Daemon Server] - 2023-11-07T08:28:16.701Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:21.816Z - [WATCHER]: apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/.Flutter.N5XBgI was created or restored
+[NX Daemon Server] - 2023-11-07T08:28:21.816Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:21.959Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:21.960Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/.Flutter.N5XBgI
+[NX Daemon Server] - 2023-11-07T08:28:21.960Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:21.966Z - Time taken for 'hash changed files from watcher' 40.07470799982548ms
+[NX Daemon Server] - 2023-11-07T08:28:22.025Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:22.151Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:22.153Z - [WATCHER]: 21 file(s) created or restored, 0 file(s) modified, 21 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:22.208Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:22.209Z - [WATCHER]: apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter.lipo was created or restored
+[NX Daemon Server] - 2023-11-07T08:28:22.268Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:22.268Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/icudtl.dat,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/_CodeSignature/CodeResources,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Info.plist,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter.lipo
+[NX Daemon Server] - 2023-11-07T08:28:22.268Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterAppDelegate.h.gtixlh,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/.icudtl.dat.OoH6zR,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterBinaryMessenger.h.5YMJwJ,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterPlugin.h.lQxnjs,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/.module.modulemap.6r657M,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterCallbackCache.h.0LjuSu,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterDartProject.h.2nmNvd,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterCodecs.h.Zw74Vx,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterHeadlessDartRunner.h.qlah2d,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterEngine.h.xjaK4U,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterPlatformViews.h.86KFYV,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterTexture.h.CE2zcq,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterMacros.h.tPj4Vc,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.Flutter.h.ATfY76,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterViewController.h.JIEoYt,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/.Flutter.N5XBgI,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterChannels.h.4ISNjK,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterPluginAppLifeCycleDelegate.h.1qIwMX,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/.Info.plist.yggX1Y,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/.FlutterEngineGroup.h.CtW5yN,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/_CodeSignature/.CodeResources.O9EiRi
+[NX Daemon Server] - 2023-11-07T08:28:22.276Z - Time taken for 'hash changed files from watcher' 12.003333000466228ms
+[NX Daemon Server] - 2023-11-07T08:28:22.298Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:22.298Z - [WATCHER]: 2 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:22.351Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:22.351Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:22.413Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:22.413Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/_CodeSignature/CodeResources,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/gen_localizations.stamp
+[NX Daemon Server] - 2023-11-07T08:28:22.413Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter.lipo,apps/mobile/build/ios/Debug-iphonesimulator/Flutter.framework/Flutter.cstemp
+[NX Daemon Server] - 2023-11-07T08:28:22.419Z - Time taken for 'hash changed files from watcher' 10.808250000700355ms
+[NX Daemon Server] - 2023-11-07T08:28:22.483Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:22.644Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:22.644Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:22.748Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:22.748Z - [REQUEST]: apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/debug_unpack_ios.stamp,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/gen_dart_plugin_registrant.stamp,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/app.dill
+[NX Daemon Server] - 2023-11-07T08:28:22.748Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:22.757Z - Time taken for 'hash changed files from watcher' 0.22116700001060963ms
+[NX Daemon Server] - 2023-11-07T08:28:22.823Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:26.597Z - [WATCHER]: apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/app.dill was modified
+[NX Daemon Server] - 2023-11-07T08:28:26.597Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:26.801Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:26.801Z - [REQUEST]: apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/app.dill
+[NX Daemon Server] - 2023-11-07T08:28:26.801Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:26.808Z - Time taken for 'hash changed files from watcher' 0.1885829996317625ms
+[NX Daemon Server] - 2023-11-07T08:28:26.875Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:26.914Z - [WATCHER]: 1 file(s) created or restored, 1 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:26.962Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:27.027Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:27.027Z - [REQUEST]: apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/kernel_snapshot.d,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/app.dill
+[NX Daemon Server] - 2023-11-07T08:28:27.027Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:27.033Z - Time taken for 'hash changed files from watcher' 8.464082999154925ms
+[NX Daemon Server] - 2023-11-07T08:28:27.096Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:27.348Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:27.348Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:27.452Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:27.452Z - [REQUEST]: apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/kernel_snapshot.stamp,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/App.framework/App
+[NX Daemon Server] - 2023-11-07T08:28:27.452Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:27.459Z - Time taken for 'hash changed files from watcher' 0.21554099954664707ms
+[NX Daemon Server] - 2023-11-07T08:28:27.521Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:28.413Z - [WATCHER]: 6 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:28.414Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:28.528Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:28.528Z - [REQUEST]: apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/App.framework/App,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/App,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/kernel_blob.bin,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/vm_snapshot_data,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/isolate_snapshot_data,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/debug_universal_framework.stamp
+[NX Daemon Server] - 2023-11-07T08:28:28.528Z - [REQUEST]: apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/App.framework/App.cstemp
+[NX Daemon Server] - 2023-11-07T08:28:28.535Z - [WATCHER]: 6 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:28.535Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:28.535Z - Time taken for 'hash changed files from watcher' 10.081583000719547ms
+[NX Daemon Server] - 2023-11-07T08:28:28.597Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:28.642Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:28.642Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/AssetManifest.json,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/AssetManifest.smcbin,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/FontManifest.json,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/NOTICES.Z
+[NX Daemon Server] - 2023-11-07T08:28:28.642Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:28.649Z - Time taken for 'hash changed files from watcher' 2.951375000178814ms
+[NX Daemon Server] - 2023-11-07T08:28:28.712Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:28.778Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:28.779Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 3 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:28.831Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:28.832Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:28.884Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:28.884Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/shaders/ink_sparkle.frag,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/flutter_assets.d,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/Info.plist,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/App,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/_CodeSignature/CodeResources
+[NX Daemon Server] - 2023-11-07T08:28:28.884Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/shaders/ink_sparkle.frag.spirv,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/shaders/ink_sparkle.frag.spirv.temp,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/flutter_assets/shaders/ink_sparkle.frag.temp,apps/mobile/build/ios/Debug-iphonesimulator/App.framework/App.cstemp
+[NX Daemon Server] - 2023-11-07T08:28:28.890Z - Time taken for 'hash changed files from watcher' 1.0983339995145798ms
+[NX Daemon Server] - 2023-11-07T08:28:28.954Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:29.268Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:29.269Z - [WATCHER]: 5 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:29.373Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:29.373Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/AppFrameworkInfo.plist,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/.filecache,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/debug_ios_bundle_flutter_assets.stamp,apps/mobile/.dart_tool/flutter_build/b96125ff3193f5523352e4b2f8199416/outputs.json,apps/mobile/build/ios/Debug-iphonesimulator/.last_build_id
+[NX Daemon Server] - 2023-11-07T08:28:29.373Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:29.379Z - Time taken for 'hash changed files from watcher' 0.3169999998062849ms
+[NX Daemon Server] - 2023-11-07T08:28:29.437Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:30.232Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:30.232Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:30.336Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:30.336Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/AppIcon76x76@2x~ipad.png,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/AppIcon60x60@2x.png
+[NX Daemon Server] - 2023-11-07T08:28:30.336Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:30.343Z - Time taken for 'hash changed files from watcher' 0.21774999983608723ms
+[NX Daemon Server] - 2023-11-07T08:28:30.395Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:31.086Z - [WATCHER]: 6 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:31.086Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:31.179Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:31.179Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:31.190Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:31.190Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/Info.plist,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Info.plist,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Assets.car,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/PkgInfo
+[NX Daemon Server] - 2023-11-07T08:28:31.190Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/tmp.eiZNJO
+[NX Daemon Server] - 2023-11-07T08:28:31.197Z - Time taken for 'hash changed files from watcher' 0.6132500004023314ms
+[NX Daemon Server] - 2023-11-07T08:28:31.260Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:32.204Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:32.204Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:32.308Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:32.308Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.swiftmodule/arm64-apple-ios-simulator.abi.json,apps/mobile/build/ios/Debug-iphonesimulator/Runner.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo,apps/mobile/build/ios/Debug-iphonesimulator/Runner.swiftmodule/arm64-apple-ios-simulator.swiftdoc,apps/mobile/build/ios/Debug-iphonesimulator/Runner.swiftmodule/arm64-apple-ios-simulator.swiftmodule
+[NX Daemon Server] - 2023-11-07T08:28:32.308Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:32.314Z - Time taken for 'hash changed files from watcher' 0.2521670013666153ms
+[NX Daemon Server] - 2023-11-07T08:28:32.376Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:33.639Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:33.639Z - [WATCHER]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Runner was created or restored
+[NX Daemon Server] - 2023-11-07T08:28:33.743Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:33.743Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Runner
+[NX Daemon Server] - 2023-11-07T08:28:33.743Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:33.750Z - Time taken for 'hash changed files from watcher' 0.21858299896121025ms
+[NX Daemon Server] - 2023-11-07T08:28:33.812Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:34.293Z - [WATCHER]: 9 file(s) created or restored, 0 file(s) modified, 8 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:34.293Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:34.399Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:34.399Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/App,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.kernel_blob.bin.cSwBSO,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.smcbin
+[NX Daemon Server] - 2023-11-07T08:28:34.399Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/.Info.plist.I4rMkh,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/.CodeResources.ZeUMJp,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.FontManifest.json.m3yDt7,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.isolate_snapshot_data.yw7hDv,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.AssetManifest.smcbin.UdVdd3,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.AssetManifest.json.cIPFX2,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.NOTICES.Z.Om1AQr,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/.App.Un9aJq
+[NX Daemon Server] - 2023-11-07T08:28:34.405Z - [WATCHER]: 6 file(s) created or restored, 0 file(s) modified, 5 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:34.405Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:34.406Z - Time taken for 'hash changed files from watcher' 1.9913750011473894ms
+[NX Daemon Server] - 2023-11-07T08:28:34.457Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:34.518Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:34.518Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/.Flutter.VZH2kC,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data
+[NX Daemon Server] - 2023-11-07T08:28:34.518Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.kernel_blob.bin.cSwBSO,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.vm_snapshot_data.uAPPoA,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/.CupertinoIcons.ttf.U8LjEh,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/.MaterialIcons-Regular.otf.Kj35G6,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/shaders/.ink_sparkle.frag.ajLB1Y
+[NX Daemon Server] - 2023-11-07T08:28:34.524Z - [WATCHER]: 21 file(s) created or restored, 1 file(s) modified, 21 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:34.525Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:34.525Z - Time taken for 'hash changed files from watcher' 9.927083000540733ms
+[NX Daemon Server] - 2023-11-07T08:28:34.582Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:34.643Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:34.643Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/icudtl.dat,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Info.plist
+[NX Daemon Server] - 2023-11-07T08:28:34.643Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterTexture.h.h2Nu0U,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterAppDelegate.h.Na49TW,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/.Info.plist.xXeinv,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterEngineGroup.h.ltUmMc,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterMacros.h.2tox0I,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterEngine.h.THmBEZ,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterCallbackCache.h.wJ6JKU,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/.CodeResources.QVK866,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterChannels.h.eiRwEy,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterBinaryMessenger.h.HewQZi,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterDartProject.h.SNPLvZ,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterHeadlessDartRunner.h.tdOaAx,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/.module.modulemap.uGMMta,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterPlatformViews.h.iXhJs9,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterPlugin.h.G3yglK,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterViewController.h.P4D3wp,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.Flutter.h.xhK9CJ,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterCodecs.h.5ocxyG,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/.icudtl.dat.CdSBJI,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/.Flutter.VZH2kC,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterPluginAppLifeCycleDelegate.h.4zI6Gn
+[NX Daemon Server] - 2023-11-07T08:28:34.650Z - Time taken for 'hash changed files from watcher' 14.358167000114918ms
+[NX Daemon Server] - 2023-11-07T08:28:34.705Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:35.217Z - [WATCHER]: 1 file(s) created or restored, 1 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:35.217Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:35.321Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:35.321Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/_CodeSignature/CodeResources,apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Runner
+[NX Daemon Server] - 2023-11-07T08:28:35.321Z - [REQUEST]: apps/mobile/build/ios/Debug-iphonesimulator/Runner.app/Runner.cstemp
+[NX Daemon Server] - 2023-11-07T08:28:35.327Z - Time taken for 'hash changed files from watcher' 0.26245899870991707ms
+[NX Daemon Server] - 2023-11-07T08:28:35.382Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.055Z - [WATCHER]: 22 file(s) created or restored, 0 file(s) modified, 21 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:36.055Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.161Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:36.161Z - [REQUEST]: apps/mobile/build/ios/iphonesimulator/Runner.app/AppIcon76x76@2x~ipad.png,apps/mobile/build/ios/iphonesimulator/Runner.app/PkgInfo,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/AppIcon60x60@2x.png,apps/mobile/build/ios/iphonesimulator/Runner.app/Assets.car,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.smcbin,apps/mobile/build/ios/iphonesimulator/Runner.app/Runner,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.kernel_blob.bin.MGuKne,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib,apps/mobile/build/ios/iphonesimulator/Runner.app/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z,apps/mobile/build/ios/iphonesimulator/Runner.app/AppFrameworkInfo.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+[NX Daemon Server] - 2023-11-07T08:28:36.161Z - [REQUEST]: apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/.UIViewController-01J-lp-oVM.nib.vTUQiU,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.FontManifest.json.wy7M61,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/.BYZ-38-t0r-view-8bC-Xf-vdC.nib.kvW3QU,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/.Info.plist.1BCKZN,apps/mobile/build/ios/iphonesimulator/Runner.app/.Assets.car.y4vX7c,apps/mobile/build/ios/iphonesimulator/Runner.app/.Runner.gB8MkQ,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/.01J-lp-oVM-view-Ze5-6b-2t3.nib.evYOgG,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.AssetManifest.smcbin.WJTkXV,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.isolate_snapshot_data.1J0Sdl,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/.Info.plist.cBGSHd,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/.Info.plist.68DUVi,apps/mobile/build/ios/iphonesimulator/Runner.app/.AppFrameworkInfo.plist.V9P7TY,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/.CodeResources.Aeah3G,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.NOTICES.Z.YFSZlS,apps/mobile/build/ios/iphonesimulator/Runner.app/.AppIcon76x76@2x~ipad.png.OzCBCx,apps/mobile/build/ios/iphonesimulator/Runner.app/.PkgInfo.ppi4zi,apps/mobile/build/ios/iphonesimulator/Runner.app/.AppIcon60x60@2x.png.LzmFJJ,apps/mobile/build/ios/iphonesimulator/Runner.app/.Info.plist.k6OS2s,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/.App.pANY5w,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.AssetManifest.json.lq7A4N,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/.UIViewController-BYZ-38-t0r.nib.rQ440V
+[NX Daemon Server] - 2023-11-07T08:28:36.167Z - [WATCHER]: 6 file(s) created or restored, 0 file(s) modified, 5 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:36.167Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.167Z - Time taken for 'hash changed files from watcher' 2.6404169984161854ms
+[NX Daemon Server] - 2023-11-07T08:28:36.228Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.279Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:36.279Z - [REQUEST]: apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/.Flutter.VLtvxx,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data
+[NX Daemon Server] - 2023-11-07T08:28:36.279Z - [REQUEST]: apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.kernel_blob.bin.MGuKne,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/.MaterialIcons-Regular.otf.n55bcL,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/shaders/.ink_sparkle.frag.1IstKY,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/.CupertinoIcons.ttf.vHL0Uj,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/.vm_snapshot_data.a1JNQ4
+[NX Daemon Server] - 2023-11-07T08:28:36.285Z - [WATCHER]: 22 file(s) created or restored, 0 file(s) modified, 22 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:36.285Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.286Z - Time taken for 'hash changed files from watcher' 8.584124999120831ms
+[NX Daemon Server] - 2023-11-07T08:28:36.347Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.404Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:36.404Z - [REQUEST]: apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/icudtl.dat,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h,apps/mobile/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h
+[NX Daemon Server] - 2023-11-07T08:28:36.404Z - [REQUEST]: apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.Flutter.h.wc38pK,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterChannels.h.FUQcRQ,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterHeadlessDartRunner.h.jSdQOf,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/.Flutter.VLtvxx,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/.Info.plist.w9IKFP,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterPluginAppLifeCycleDelegate.h.UICiG1,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterViewController.h.KEobur,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterPlatformViews.h.r8DBfg,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/.module.modulemap.cVma5h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterCodecs.h.lmT1vp,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterBinaryMessenger.h.2ZOE0j,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterPlugin.h.I2GQHr,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterTexture.h.im9n88,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterCallbackCache.h.7VB20w,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterEngine.h.kCunPt,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/.icudtl.dat.FT4h9u,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterDartProject.h.LZzxc7,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterMacros.h.HAPjvk,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterEngineGroup.h.lfR3wb,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/.FlutterAppDelegate.h.E3JJjM,apps/mobile/build/ios/iphonesimulator/Runner.app/_CodeSignature/.CodeResources.m6Jzoi,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/.CodeResources.PFtb7d
+[NX Daemon Server] - 2023-11-07T08:28:36.410Z - [WATCHER]: 48 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:28:36.411Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.411Z - Time taken for 'hash changed files from watcher' 14.242041999474168ms
+[NX Daemon Server] - 2023-11-07T08:28:36.473Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:36.530Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:36.530Z - [REQUEST]: apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/NOTICES.Z,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/icudtl.dat,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources,apps/mobile/build/ios/iphonesimulator/Runner.app/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlatformViews.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterViewController.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/kernel_blob.bin,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json,apps/mobile/build/ios/iphonesimulator/Runner.app/AppIcon76x76@2x~ipad.png,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterCodecs.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib,apps/mobile/build/ios/iphonesimulator/Runner.app/Assets.car,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/AppFrameworkInfo.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterAppDelegate.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Runner,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterMacros.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Flutter,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.smcbin,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/shaders/ink_sparkle.frag,apps/mobile/build/ios/iphonesimulator/Runner.app/PkgInfo,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/isolate_snapshot_data,apps/mobile/build/ios/iphonesimulator/Runner.app/AppIcon60x60@2x.png,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterPlugin.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterChannels.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/Flutter.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/vm_snapshot_data,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterTexture.h,apps/mobile/build/ios/iphonesimulator/Runner.app/_CodeSignature/CodeResources,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterEngine.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Modules/module.modulemap,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Headers/FlutterDartProject.h,apps/mobile/build/ios/iphonesimulator/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/App,apps/mobile/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+[NX Daemon Server] - 2023-11-07T08:28:36.530Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:36.536Z - Time taken for 'hash changed files from watcher' 15.138166999444366ms
+[NX Daemon Server] - 2023-11-07T08:28:36.589Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:38.681Z - [WATCHER]: apps/mobile/build/454dee5efabb744ec34e2c377c0c2be7.cache.dill.track.dill was created or restored
+[NX Daemon Server] - 2023-11-07T08:28:38.681Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:28:38.805Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T08:28:38.805Z - [REQUEST]: apps/mobile/build/454dee5efabb744ec34e2c377c0c2be7.cache.dill.track.dill
+[NX Daemon Server] - 2023-11-07T08:28:38.805Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T08:28:38.813Z - Time taken for 'hash changed files from watcher' 18.326457999646664ms
+[NX Daemon Server] - 2023-11-07T08:28:38.866Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:31:54.556Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:31:54.557Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:31:54.557Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:31:54.558Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T08:31:54.558Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T08:31:54.559Z - Time taken for 'total for creating and serializing project graph' 0.07079099863767624ms
+[NX Daemon Server] - 2023-11-07T08:31:54.559Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T08:31:54.559Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-07T08:31:55.187Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:31:56.633Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:31:56.634Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:31:56.634Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:31:56.635Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T08:31:56.635Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T08:31:56.635Z - Time taken for 'total for creating and serializing project graph' 0.06200000084936619ms
+[NX Daemon Server] - 2023-11-07T08:31:56.636Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T08:31:56.636Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-07T08:31:57.133Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:10.336Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:10.337Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:10.337Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:10.338Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T08:32:10.338Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T08:32:10.339Z - Time taken for 'total for creating and serializing project graph' 0.045166999101638794ms
+[NX Daemon Server] - 2023-11-07T08:32:10.340Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T08:32:10.340Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-07T08:32:10.821Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:20.031Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:20.032Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:20.032Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:20.033Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T08:32:20.033Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T08:32:20.033Z - Time taken for 'total for creating and serializing project graph' 0.0779580008238554ms
+[NX Daemon Server] - 2023-11-07T08:32:20.034Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T08:32:20.035Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-07T08:32:20.560Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:25.618Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:25.618Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:25.619Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:25.619Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T08:32:25.619Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T08:32:25.620Z - Time taken for 'total for creating and serializing project graph' 0.05925000086426735ms
+[NX Daemon Server] - 2023-11-07T08:32:25.621Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T08:32:25.621Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-07T08:32:26.116Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:27.549Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:27.549Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:27.550Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:27.550Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T08:32:27.551Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T08:32:27.551Z - Time taken for 'total for creating and serializing project graph' 0.05670799873769283ms
+[NX Daemon Server] - 2023-11-07T08:32:27.552Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T08:32:27.552Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-11-07T08:32:28.045Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:40.841Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:40.842Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T08:32:40.842Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T08:32:40.843Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T08:32:40.843Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T08:32:40.844Z - Time taken for 'total for creating and serializing project graph' 0.10354200005531311ms
+[NX Daemon Server] - 2023-11-07T08:32:40.845Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T08:32:40.845Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-07T08:32:41.826Z - [WATCHER]: 13 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-07T08:32:41.827Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T08:32:41.827Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/bluebik-global (sources)
+[NX Daemon Server] - 2023-11-07T08:32:41.827Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/bluebik-global (outputs)
+[NX Daemon Server] - 2023-11-07T08:32:41.827Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2023-11-07T10:57:50.924Z - Started listening on: /var/folders/d4/pmdwjz9x2fnftdzf9m672wgh0000gn/T/45fd9ec9b92dc8b62a12/d.sock
+[NX Daemon Server] - 2023-11-07T10:57:50.926Z - [WATCHER]: Subscribed to changes within: /Users/stanydsouza/Work/Bluebik/flutter-workspace/bluebik-global (native)
+[NX Daemon Server] - 2023-11-07T10:57:50.932Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T10:57:50.933Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-07T10:57:50.933Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T10:57:50.934Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-07T10:57:51.024Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T10:57:51.024Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T10:57:51.024Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T10:57:51.041Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-07T10:57:51.042Z - Time taken for 'total for creating and serializing project graph' 107.5646249987185ms
+[NX Daemon Server] - 2023-11-07T10:57:51.043Z - [WATCHER]: .nx/cache/d/server-process.json was created or restored
+[NX Daemon Server] - 2023-11-07T10:57:51.043Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T10:57:51.043Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-07T10:57:51.043Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 107. Response time: 2.
+[NX Daemon Server] - 2023-11-07T10:57:51.044Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-07T10:57:51.045Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T10:57:51.046Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-07T10:57:51.046Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-07T10:57:51.046Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-07T10:57:51.046Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-07T10:57:51.046Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-11-07T10:57:51.103Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T10:57:51.146Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-07T10:57:51.147Z - [REQUEST]: .nx/cache/d/server-process.json
+[NX Daemon Server] - 2023-11-07T10:57:51.147Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-07T10:57:51.155Z - Time taken for 'hash changed files from watcher' 0.1926250010728836ms
+[NX Daemon Server] - 2023-11-07T10:57:51.217Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T10:58:59.879Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-07T10:58:59.880Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/Bluebik/flutter-workspace/bluebik-global (sources)
+[NX Daemon Server] - 2023-11-07T10:58:59.880Z - [WATCHER]: Stopping the watcher for /Users/stanydsouza/Work/Bluebik/flutter-workspace/bluebik-global (outputs)
+[NX Daemon Server] - 2023-11-07T10:58:59.880Z - Server stopped because: "Lock file changed"
